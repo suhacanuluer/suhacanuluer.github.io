@@ -16,7 +16,7 @@ export default function Footer() {
                 <div className="h-2"></div>
 
                 {/* Contact Content */}
-                <p className="text-lg text-[var(--text-primary)] mb-8 whitespace-nowrap">
+                <p className="text-lg text-[var(--text-primary)] mb-8 md:whitespace-nowrap">
                     Open to discussing new opportunities and interesting projects.
                 </p>
 
